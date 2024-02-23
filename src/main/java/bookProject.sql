@@ -1,5 +1,5 @@
 ----계정 생성(system 계정으로 연결)
---create user book identified by 1234;
+create user book identified by 1234;
 --grant connect, resource to book;
 ----system계정 끊고나서 book계정 생성
 

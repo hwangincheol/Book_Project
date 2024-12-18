@@ -22,15 +22,15 @@
   </context-param>
   <context-param>
   	<param-name>OracleURL</param-name>
-  	<param-value>jdbc:oracle:thin:@192.168.0.208:1521:xe</param-value>
+  	<param-value>jdbc:oracle:thin:*비공개*</param-value>
   </context-param>
   <context-param>
   	<param-name>OracleId</param-name>
-  	<param-value>book</param-value>
+  	<param-value>*비공개*</param-value>
   </context-param>
   <context-param>
   	<param-name>OraclePwd</param-name>
-  	<param-value>1234</param-value>
+  	<param-value>*비공개*</param-value>
   </context-param>
   <!-- 프로젝트 별 세션 시간 설정 20분 -->
   <session-config>
